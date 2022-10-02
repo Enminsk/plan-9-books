@@ -1,0 +1,15 @@
+.conteiner {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.search{
+    width: 900px;
+    height: 50px;
+}
+
+

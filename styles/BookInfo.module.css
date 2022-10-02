@@ -1,0 +1,21 @@
+.conteiner {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.title {
+
+}
